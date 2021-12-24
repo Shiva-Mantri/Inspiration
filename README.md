@@ -6,8 +6,8 @@
 
 ### Side Projects
 - Ask HN: Those making $500/month on side projects in 2021 – Show and tell - https://news.ycombinator.com/item?id=29667095
-<br>[Contents](#contents)
+- [Contents](#contents)
 
 ### Financial Independence
 - TBD
-<br>[Contents](#contents)
+- [Contents](#contents)
